@@ -16,7 +16,7 @@ Browse to http://localhost:4000.
 
 ## Authors
 
-* M. Rizki Maulana - [emrizkiem.github.io](https://emrizkiem.github.io/)
+M. Rizki Maulana - [emrizkiem.github.io](https://emrizkiem.github.io/)
 
 ## License
 
