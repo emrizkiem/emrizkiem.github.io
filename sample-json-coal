@@ -6,8 +6,8 @@
     "pages": {
         "login": {
             "header": {
-                "title": "Masuk",
-                "description": "Masukkan nama pengguna dan kata sandi Anda",
+                "title": "Login",
+                "description": "Please enter your username and password",
                 "image": "https://developer.apple.com/swift/images/swift-og.png"
             },
             "form": {
@@ -16,11 +16,11 @@
                     "placeholder": "Enter your email"
                 },
                 "password": {
-                    "label": "Kata Sandi",
+                    "label": "Password",
                     "placeholder": "Enter your password"
                 },
                 "submit": {
-                    "label": "MASUK"
+                    "label": "LOGIN"
                 }
             }
         }
