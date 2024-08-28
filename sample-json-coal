@@ -1,0 +1,28 @@
+{
+    "project": {
+        "name": "My Project",
+        "description": "This is my project"
+    },
+    "pages": {
+        "login": {
+            "header": {
+                "title": "Login",
+                "description": "Please enter your username and password",
+                "image": "https://developer.apple.com/swift/images/swift-og.png"
+            },
+            "form": {
+                "username": {
+                    "label": "Username",
+                    "placeholder": "Enter your username"
+                },
+                "password": {
+                    "label": "Password",
+                    "placeholder": "Enter your password"
+                },
+                "submit": {
+                    "label": "Login"
+                }
+            }
+        }
+    }
+}
